@@ -1,0 +1,83 @@
+
+
+html{
+    background-color: rgb(156, 223, 250);
+}
+
+#BigTitle{
+    color:rgb(247, 185, 92);
+    text-align: left;
+    font-size: 20px;
+    margin-top: 100px;
+    margin-right: 1200px;
+    background-color: rgb(48, 104, 167);
+    font-family: sans-serif;
+    text-decoration-line: underline;
+    text-decoration-thickness: 6px;
+}
+
+#myName{
+    color:rgb(18, 17, 70);
+    text-align: left;
+    font-size: 10px;
+    margin-top: -20px;
+    margin-right: 1200px;
+    font-family: sans-serif;
+}
+
+#aboutMe{
+        color:rgb(18, 17, 70);
+        text-align: justify;
+        font-size: 15px;
+        margin-top: 50px;
+        margin-right: 1200px;
+        font-family: sans-serif;
+}
+
+h3{
+    color:rgb(247, 185, 92);
+    background-color: rgb(48, 104, 167);
+    margin-right: 475px;
+    margin-left: 0px;
+    text-align: center;
+    font-size: 25px;
+}
+
+p1{
+    font-family: 'Times New Roman';
+    
+}
+
+#socials{
+    font-family: 'Times New Roman';
+    font-size: 15px;
+    margin-top: 50px;
+}
+
+h4{
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+img{
+    width: 80px;
+    height: 50px;
+    margin-left: 340px;
+    margin-top: -50px;
+
+}
+
+#gmail{
+    margin-left: 20px;
+}
+
+#reflection{
+    color:rgb(247, 185, 92);
+    background-color: rgb(48, 104, 167);
+    margin-left: 1300px;
+    margin-right: 340px;
+    margin-top: -350px;
+    text-align: center;
+    font-size: 30px;
+    font-family: sans-serif;
+}
